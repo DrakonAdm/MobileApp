@@ -1,0 +1,66 @@
+[
+  {
+    "id": "1",
+    "title": "Nike Therma",
+    "subtitle": "Men's Pullover Training Hoodie",
+    "price": "US$33.97",
+    "image": "therma-men",
+    "category": "Clothes"
+  },
+  {
+    "id": "2",
+    "title": "Nike Sportwear Club Fleece",
+    "subtitle": "Men's Pants",
+    "price": "US$33.97",
+    "image": "air-jordan1",
+    "category": "Clothes"
+  },
+  {
+    "id": "3",
+    "title": "Nike Sportwear Club",
+    "subtitle": "Men's",
+    "price": "US$33.97",
+    "image": "hoodie",
+    "category": "Clothes"
+  },
+  {
+    "id": "4",
+    "title": "Nike Dri-FIT Miler",
+    "subtitle": "Men's",
+    "price": "US$33.97",
+    "image": "shirt",
+    "category": "Clothes"
+  },
+  {
+    "id": "5",
+    "title": "Nike Elite Socks",
+    "subtitle": "Crew Length",
+    "price": "US$14.97",
+    "image": "air-jordan1",
+    "category": "Socks"
+  },
+  {
+    "id": "6",
+    "title": "Nike Cushioned Socks",
+    "subtitle": "Ankle Height",
+    "price": "US$12.97",
+    "image": "raz-raz",
+    "category": "Socks"
+  },
+  {
+    "id": "7",
+    "title": "Nike Elite Pro",
+    "subtitle": "Basketball Backpack",
+    "price": "US$85.00",
+    "image": "air-jordan1",
+    "category": "Accessories & Equipment"
+  },
+  {
+    "id": "8",
+    "title": "Nike Heritage Backpack",
+    "subtitle": "Everyday Carry",
+    "price": "US$40.97",
+    "image": "air-jordan1",
+    "category": "Accessories & Equipment"
+  }
+]
